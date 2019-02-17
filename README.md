@@ -20,6 +20,8 @@ That's **ONNEMI-4211**.
 
 - No CSS, HTML, macros, build flags, etc. Construct ALL assets and build artifacts imperatively in the same language your are coding in.
 
+- If you are using a Makefile or a Webpack config, it better be because the rest of your app better be written in Make or is wholly contained in your webpack.config.js.
+
 
 ### N: No Config
 
