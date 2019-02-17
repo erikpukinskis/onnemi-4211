@@ -14,14 +14,7 @@ And...
     42 character width
     1:1 expressions and lines
 
-# ..... ....
-
-<br>
-
-# ONNEMI-4811
-
-<br>
-
+That's **ONNEMI-4811**.
 
 ### O: One Language
 
@@ -64,13 +57,7 @@ And...
 
 - All block punctuation goes at the end of a line of code
 
-# ..... ....
-
-<br>
-
-# ONNEMI-4811
-
-<br>
+**ONNEMI-4811**
 
 
 ### Code sample
