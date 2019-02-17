@@ -11,8 +11,8 @@ My new software philosophy:
 
 And...
 
- - 42 character width
- - 1:1 expressions and lines
+    42 character width
+    1:1 expressions and lines
 
 
 ### ONNEMI-4811
@@ -53,7 +53,9 @@ And...
 
 - Try not to have keys on object that stick around and affect different pieces of code at different times. As much as possible try to use objects in the same module that created them
 
-## 1: One expressions per line
+## Wrap lines at 48 character width
+
+## 1:1 / One expressions per line
 
 - you may type [ some symbols (including var, function, etc), [ some identifierish possibly, and some separator symbols ], [ another identifierish or any string up to... ], some exit symbols ]
 
