@@ -34,7 +34,7 @@ That's **ONNEMI-4211**.
 
 ###  E — Everything Is Module
 
-- No dependencies implicit in filesystem, environment switches, build descriptors, etc. All libraries must be communicate with other libraries through formal interfaces in the language you are coding in
+- No dependencies implicit in filesystem, environment switches, build descriptors, etc. All libraries communicate with other libraries through formal interfaces in the language you are coding in
 
 
 ### M — Modules Are 150 Lines
