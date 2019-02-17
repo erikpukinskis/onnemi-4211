@@ -16,34 +16,33 @@ And...
 
 That's **ONNEMI-4211**.
 
-### O: One Language
+### O — One Language
 
-- No CSS, HTML, macros, build flags, etc. Construct ALL assets and build artifacts imperatively in the same language your are coding in.
-
-- If you are using a Makefile or a Webpack config, it better be because the rest of your app better be written in Make or is wholly contained in your webpack.config.js.
+- No CSS, HTML, macros, build flags, etc. Construct ALL assets and build artifacts imperatively in the same language you are coding in.
 
 
-### N: No Config
+### N — No Config
 
 - Switches, addresses, hashes, application structure, all must be written in function calls, not keys in a config file.
 
+- If you are using a Makefile or a Webpack config, it better be because the rest of your app better be written in Make or is wholly contained in your webpack.config.js.
 
-### N: No Build
+### N — No Build
 
 - Can be started by compiling or running one file
 
 
-###  E: Everything Is Module
+###  E — Everything Is Module
 
 - No dependencies implicit in filesystem, environment switches, build descriptors, etc. All libraries must be communicate with other libraries through formal interfaces in the language you are coding in
 
 
-### M: Modules Are 150 Lines
+### M — Modules Are 150 Lines
 
 - They’ll grow to 600 but they want to be 150
 
 
-### I: Imperative Is Best
+### I — Imperative Is Best
 
 - Pass data to procedures. Don't enter namespaces. Don't pass flags.
 
@@ -51,7 +50,7 @@ That's **ONNEMI-4211**.
 
 ### Wrap lines at 48 character width
 
-### 1:1 / One expressions per line
+### 1:1 — One expressions per line
 
 - You may type [ some symbols (including var, function, etc), [ some identifierish possibly, and some separator symbols ], [ another identifierish or any string up to... ], some exit symbols ]
 
@@ -59,7 +58,10 @@ That's **ONNEMI-4211**.
 
 - All block punctuation goes at the end of a line of code
 
-### ONNEMI-4211. Code sample
+**ONNEMI-4211**
+
+
+### Code sample
 
 ```javascript
 library.define(
