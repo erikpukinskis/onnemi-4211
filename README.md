@@ -108,7 +108,7 @@ When two or more closely nested scopes scroll past the top of the screen, they _
 
 ### P.S.S.
 
-Interesting coincidence, onnemi is a Nahuatl (pre-Aztec) word that means “they/it lives! they go on”
+Interesting coincidence, onnemi is a Nahuatl (pre-Aztec) word that means “it lives! they go!”
 
 ![Onnemi mentioned in Nahuatl dictionary](onemmi-in-nahuatl.png)
 
