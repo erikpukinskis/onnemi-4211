@@ -5,13 +5,13 @@ My new software philosophy:
     One Language
     No Config
     No Build
-    Everything Is Module
+    Everything Is A Module
     Modules Are 150 Lines
     Imperative Is Best
 
 And...
 
-    42 character width
+    Set wrap at 42 character width
     1:1 expressions and lines
 
 That's **ONNEMI-4811**.
