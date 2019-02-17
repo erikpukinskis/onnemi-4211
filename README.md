@@ -102,7 +102,7 @@ library.define(
   })
 ```
 
-[Play the accompanying soundtrack](https://www.iheart.com/artist/lankum-31805255/songs/what-will-we-do-when-we-51370421/?autoplay=true) while reading to fully understand the sample.
+[Play the accompanying soundtrack](https://www.youtube.com/watch?v=96xvKHDD8YE) while reading to fully understand the sample.
 
 ### P.S.
 
