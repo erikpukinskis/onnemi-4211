@@ -56,6 +56,8 @@ That's **ONNEMI-4211**.
 
 - Anything after that, like an identifierish followed by a (, is dropped to the next line and indented
 
+- Identifierish is only strings, names, and numbers
+
 - All block punctuation goes at the end of a line of code
 
 That's **ONNEMI-4211**.
