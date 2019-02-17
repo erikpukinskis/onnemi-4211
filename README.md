@@ -102,8 +102,6 @@ library.define(
   })
 ```
 
-[Play the accompanying soundtrack](https://www.youtube.com/watch?v=96xvKHDD8YE) while reading to fully understand the sample.
-
 ### P.S.
 
 When two or more closely nested scopes scroll past the top of the screen, they _may_ drop to a new line, indented.
