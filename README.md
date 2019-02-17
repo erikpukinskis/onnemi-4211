@@ -58,7 +58,7 @@ That's **ONNEMI-4211**.
 
 - All block punctuation goes at the end of a line of code
 
-**ONNEMI-4211**
+That's **ONNEMI-4211**.
 
 
 ### Code sample
