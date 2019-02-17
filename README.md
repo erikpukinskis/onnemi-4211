@@ -63,7 +63,7 @@ That's **ONNEMI-4211**.
 That's **ONNEMI-4211**.
 
 
-### Code sample
+### Sample code
 
 ```javascript
 library.define(
@@ -79,17 +79,24 @@ library.define(
       3444)
 
     var page = element(
+      ".salu",
       "hello world")
+      
+    var baseBridge = new BrowserBridge()
 
+    baseBridge.addToHead(
+      element.stylesheet(
+       element.style(
+         ".salu",{
+         "font-style": "italic",
+         "font-size": "1.5em"})))
+   
     site.addRoute(
       "get",
       "/",
       function(_, response) {
-
-        var bridge = new BrowserBridge()
-          .forResponse(
-            response)
-
+        var bridge = baseBridge.forResponse(
+          response)
         bridge.send(
           page)})
   })
