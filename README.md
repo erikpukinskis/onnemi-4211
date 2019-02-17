@@ -96,7 +96,7 @@ library.define(
 
 ### P.S.
 
-When multiple blocks are nested and a the start of two closely nested scopes scrolls beyond the top of the screen, their closers are dropped down to their own line, indented to the deepest of the closers
+When multiple blocks are nested and a the start of two closely nested scopes scrolls beyond the top of the screen, their closers _may_ be dropped down to their own line, indented to the deepest of the closers
 
 ### P.S.S.
 
