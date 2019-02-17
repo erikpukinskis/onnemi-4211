@@ -18,7 +18,7 @@ That's **ONNEMI-4211**.
 
 ### O — One Language
 
-- No CSS, HTML, macros, build flags, etc. Construct assets (and build artifacts) imperatively in the same language you are coding in.
+- No CSS, HTML, macros, build flags, etc. Construct all assets, start all services, generate all build artifacts imperatively in the same language you are coding in.
 
 
 ### N — No Config
