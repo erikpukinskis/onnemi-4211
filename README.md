@@ -14,7 +14,7 @@ And...
     Set wrap at 42 character width
     1:1 expressions and lines
 
-That's **ONNEMI-4811**.
+That's **ONNEMI-4211**.
 
 ### O: One Language
 
@@ -57,7 +57,7 @@ That's **ONNEMI-4811**.
 
 - All block punctuation goes at the end of a line of code
 
-**ONNEMI-4811**
+**ONNEMI-4211**
 
 
 ### Code sample
