@@ -25,7 +25,7 @@ That's **ONNEMI-4211**.
 
 - Switches, addresses, hashes, application structure, all must be written in function calls, not keys in a config file.
 
-- (If you are using a Makefile, your whole application is written in make. If you have a webpack.config.js, your whole app is written inside it.)
+- (If you are using a Makefile, your whole application is written in make. If you have a webpack.config.js, your whole app is written inside it)
 
 ### N — No Build
 
