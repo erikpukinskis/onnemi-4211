@@ -43,7 +43,7 @@ That's **ONNEMI-4211**.
 
 ### I: Imperative Is Best
 
-- Pass data to procedures. Don't entire namespaces. Don't pass flags.
+- Pass data to procedures. Don't enter namespaces. Don't pass flags.
 
 - Try not to have keys on objects that stick around and affect different pieces of code at different times. As much as possible try to use objects in the same module that created them
 
