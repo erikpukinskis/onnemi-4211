@@ -100,7 +100,7 @@ When multiple blocks are nested and a the start of two closely nested scopes scr
 
 ### P.S.S.
 
-Interesting coincidence, onnemi is a Nahuatl (pre-Aztec) word that means “He Lives!”
+Interesting coincidence, onnemi is a Nahuatl (pre-Aztec) word that means “they/it lives! they go on”
 
 ![Onnemi mentioned in Nahuatl dictionary](onemmi-in-nahuatl.png)
 
