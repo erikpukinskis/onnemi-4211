@@ -104,7 +104,7 @@ library.define(
 
 ### P.S.
 
-When two or more closely nested scopes scroll past the top of the screen, they _may_ drop to a new line, indented.
+When a block is very log, their closers are dropped down to their own line. If multiple blocks open near each other, and something inside them is long, their closers are all indented together, indented with the children of the shallowest closer.
 
 ### P.S.S.
 
