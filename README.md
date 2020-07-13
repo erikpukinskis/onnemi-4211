@@ -98,8 +98,7 @@ library.define(
         var bridge = baseBridge.forResponse(
           response)
         bridge.send(
-          page)})
-  })
+          page)})})
 ```
 
 ### P.S.
