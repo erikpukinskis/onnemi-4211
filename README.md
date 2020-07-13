@@ -101,13 +101,8 @@ library.define(
           page)})})
 ```
 
+
 ### P.S.
-
-When a block is very log, their closers are dropped down to their own line. If multiple blocks open near each other, and something inside them is long, their closers are all indented together, indented with the children of the shallowest closer.
-
-### P.S.S.
-
-Interesting coincidence, onnemi is a Nahuatl (pre-Aztec) word that means “he lives!”
 
 ![Onnemi mentioned in Nahuatl dictionary](onemmi-in-nahuatl.png)
 
